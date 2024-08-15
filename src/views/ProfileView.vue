@@ -6,8 +6,8 @@
       <div class="card shadow-sm mb-4">
         <div class="card-body">
           <h5 class="card-title" style="color: #55bf84;">Información Personal</h5>
-          <p style="color: #024716;">Nombre: Sara Landeo</p>
-          <p style="color: #024716;">Correo Electrónico: sara.landeo@ejemplo.com</p>
+          <p style="color: #024716;">Nombre: Juan Perez</p>
+          <p style="color: #024716;">Correo Electrónico: juan.perez@correo.com</p>
           <p style="color: #024716;">Teléfono: (123) 456-7890</p>
         </div>
       </div>

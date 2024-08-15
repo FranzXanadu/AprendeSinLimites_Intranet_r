@@ -27,7 +27,7 @@
           </li>
         </ul>
         <span class="user-name" style="background-color: rgba(255, 255, 255, 0.1); border-radius: 15px; padding: 5px 10px; color: white; margin-left: 10px; margin-right: 5px; pointer-events: none;">
-          Sara Landeo
+          Juan Perez
         </span>
         <img src="@/assets/login-icon.svg" alt="Perfil" class="rounded-circle" style="height: 40px;">
       </div>
