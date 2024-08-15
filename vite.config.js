@@ -8,6 +8,7 @@ export default defineConfig({
   plugins: [
     vue(),
   ],
+  base: 'https://FranzXanadu.github.io/AprendeSinLimites_Intranet_r',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
