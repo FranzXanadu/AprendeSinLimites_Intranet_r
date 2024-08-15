@@ -35,7 +35,7 @@
             <p>Si prefieres contactarnos directamente, aquí tienes nuestra información:</p>
             <p><strong>Teléfono:</strong> 123-456-789</p>
             <p><strong>Correo electrónico:</strong> info@academia.com</p>
-            <p><strong>Dirección:</strong> Av. Ejemplo 123, Ciudad</p>
+            <p><strong>Dirección:</strong> Av. Tolomeo 266, Chorrillos</p>
           </div>
         </div>
       </div>
