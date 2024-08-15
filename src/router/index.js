@@ -1,9 +1,10 @@
-import { createRouter, createWebHistory } from 'vue-router'
+// import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router' // 02 - No falla con tomcat - Linea actualizada segun documentacion de vue
 import HomeView from '../views/HomeView.vue'
 
 const router = createRouter({
   // history: createWebHistory(import.meta.env.BASE_URL),
-  history: createWebHistory('#'),
+  history: createWebHashHistory(), // No falla con tomcat - 02 - Linea actualizada segun documentacion de vue
   routes: [
     {
       path: '/',
